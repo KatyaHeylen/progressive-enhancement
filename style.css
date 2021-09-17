@@ -1,0 +1,48 @@
+html {
+    margin: 10px;
+    padding: 10px;
+background-color: whitesmoke;
+}
+body {background-color: whitesmoke;
+    width: 90%;
+margin: 10px;
+padding: 10px
+}
+p {
+    font-family: Serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: darkblue;
+}
+.good {color: green;}
+.bad {color: red;}
+.neighbors {color: firebrick}
+.farmer {color: blueviolet}
+.preamble {margin-top: 50px;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Serif;
+    list-style-type: circle;}
+
+ul {color: white;
+    text-shadow: 1px 1px 1px darkred;
+    letter-spacing: 1px;}
+
+h1 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+color: darkred;
+font-size: 60px;
+    text-align: center;
+}
+h2 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    color: darkred;
+    font-size: 45px;
+    text-align: left;
+}
+h3 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    color: darkred;
+    font-size: 30px;
+    text-align: left;
+}
